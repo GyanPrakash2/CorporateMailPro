@@ -1,4 +1,4 @@
-package emailapp;
+package CorporateMailPro;
 
 import java.util.Scanner;
 import java.util.Random;
